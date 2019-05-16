@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1557967114 source:c:\users\lucas\documents\c !\lista encad ordenada\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"ListaOrdenada.h"
+	"No.h"
+
+1557956901 c:\users\lucas\documents\c !\lista encad ordenada\include\listaordenada.h
+	"No.h"
+
+1557956857 c:\users\lucas\documents\c !\lista encad ordenada\include\no.h
+
+1557969140 source:c:\users\lucas\documents\c !\lista encad ordenada\src\listaordenada.cpp
+	<iostream>
+	"ListaOrdenada.h"
+	"No.h"
+
+1557956932 source:c:\users\lucas\documents\c !\lista encad ordenada\src\no.cpp
+
